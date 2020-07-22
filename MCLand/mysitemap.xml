@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://mcland-ntu.github.io/MCLand/index.html</loc>
+    <loc>https://mcland-ntu.github.io/MCLand/</loc>
     <lastmod>2020-07-22</lastmod>
   </url>
-    <url>
+  <url>
     <loc>https://mcland-ntu.github.io/MCLand/documentation.html</loc>
     <lastmod>2020-07-22</lastmod>
   </url>
-    <url>
+  <url>
     <loc>https://mcland-ntu.github.io/MCLand/model-repository.html</loc>
     <lastmod>2020-07-22</lastmod>
   </url>
-      <url>
+  <url>
     <loc>https://mcland-ntu.github.io/MCLand/FAQ.html</loc>
     <lastmod>2020-07-22</lastmod>
   </url>
