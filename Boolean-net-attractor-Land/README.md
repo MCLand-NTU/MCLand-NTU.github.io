@@ -1,2 +1,2 @@
-# http://naturalcancertreatments.github.io
-Natural cancer treatments webpage
+# https://mcland-ntu.github.io/Boolean-net-attractor-Land/
+
