@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://naturalcancertreatments.github.io/mysitemap.xml
+Sitemap: https://mcland-ntu.github.io/Boolean-net-attractor-Land/mysitemap.xml
