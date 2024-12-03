@@ -1,2 +1,2 @@
-# https://mcland-ntu.github.io/Boolean-net-attractor-Land/
+# https://mcland-ntu.github.io/
 
