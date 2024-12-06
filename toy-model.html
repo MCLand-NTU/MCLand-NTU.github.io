@@ -84,7 +84,7 @@
        <p>Below, we provide a toy model state transition graph. We use this toy model to demonstrate the intuitive method [1] for drawing the 3D landscape of Boolean network. This method is adapted from our Monte Carlo method for plotting
           Waddington's epigenetic landscape [2].
           Here we explain an example how to estimate the probability distribution from trajectories in the state transition graph. Let us look at the trajectories to node 0.
-          The trajectories to node 0 are: [1, 0] 1-->0; [2, 1, 0] 2-->1-->0; [3, 1, 0] 3-->1-->0; [4, 1, 0] 4-->1-->0 and [0]. We use an array named <b>countn</b> of length 15 (for 15 nodes) 
+          The trajectories to node 0 are: [1, 0] 1-->0; [2, 1, 0] 2-->1-->0; [3, 1, 0] 3-->1-->0; [4, 1, 0] 4-->1-->0 and [0]. We use a list named <b>countn</b> of length 15 (for 15 nodes) 
           in Python for the counting of the trajectory passes each node. For example the trajectory [1, 0], add 1 to node 0 with index 0. For the trajectory [2, 1, 0], add 1 to node 1 and 0. Likewise 
           we calculate for all the trajectories to each node. Then, for the estimate of the probability we divide each node count with the total. For details please read our paper [1]. 
        </p>
